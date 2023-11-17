@@ -22,7 +22,7 @@
 
 ## 📬 Connect with Me
 <!-- Social icons -->
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/yourusername/](https://www.linkedin.com/in/carloselopezc/))
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/carloselopezc/))
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/yourusername)
 ## 🌐 About Me
 - 🔭 Working on: **[Your Project Name]**
