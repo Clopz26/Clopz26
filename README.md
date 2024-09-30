@@ -1,7 +1,5 @@
 ### 👋 Hi, I'm Carlos Lopez Candanedo
 
-<img src="https://www.reasonwhy.es/media/library/1_geaepkxkeev50vugz1qsiw.gif" alt="Hola" width="250"/> <!-- Adjust width as needed -->
-
 
 ## 💻 My Skills
 
